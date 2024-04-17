@@ -21,7 +21,7 @@ Finally, it outputs the total count of each object type and the count of objects
 
 ## Example
 Consider the following floor plan:
-
+```
 +-----------+
 |           |
 | (closet)  |
@@ -30,7 +30,7 @@ Consider the following floor plan:
 |         P |                                    
 |           |                             
 +-----------+
-
+```
 Running the script would produce the following output:
 
 total:
